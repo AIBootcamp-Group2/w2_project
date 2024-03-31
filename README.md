@@ -7,7 +7,7 @@ In this project we created a new application using NextJS. We then created a pag
 2.Observational comedy
 3.Wordplay comedy
 
-In additon, we offered different tones to the user such as:
+In addition, we offered different tones to the user such as:
 1. Happy
 2. Sad
 3. Sarcastic
