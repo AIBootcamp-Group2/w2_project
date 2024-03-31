@@ -6,16 +6,15 @@ import { useChat } from "ai/react";
 export default function Chat() {
   const { messages, append, isLoading } = useChat();
   const genres = [
-    { emoji: "🧙", value: "One-line joke" },
+    { emoji: "💡", value: "One-line joke" },
     { emoji: "🕵️", value: "Observational comedy" },
-    { emoji: "💑", value: "Wordplay Comedy" },
-    { emoji: "🚀", value: "Prop comedy" },
+    { emoji: "📚", value: "Wordplay Comedy" },
   ];
   const tones = [
     { emoji: "😊", value: "Happy" },
     { emoji: "😢", value: "Sad" },
     { emoji: "😏", value: "Sarcastic" },
-    { emoji: "😂", value: "reflect" },
+    { emoji: "😎", value: "clever" },
   ];
   const [state, setState] = useState({
     genre: "",
