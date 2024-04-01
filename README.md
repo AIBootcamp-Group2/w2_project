@@ -2,7 +2,7 @@
 -----------------------------------
 Jokes Application
 
-In this project we created a new application using NextJS. We then created a page for generating jokes using AI. We also added a feature to customize the Joke Parameters. We added the personality of a standup comedian, and we offered to the user the following parameters:
+In this project we created a new application using NextJS. We then created a page for generating jokes using the *mistralai_Mistral-7B-v0.1* model. We also added a feature to customize the Joke Parameters. We added the personality of a standup comedian, and we offered to the user the following parameters:
 1. One-line comedy
 2. Observational comedy
 3. Wordplay comedy
