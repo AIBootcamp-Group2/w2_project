@@ -15,3 +15,6 @@ In addition, we offered different tones to the user such as:
 3. Sarcastic
 4. Clever
 
+The following is an example:
+![plot](./examples/OneLiner.png)
+
