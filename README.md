@@ -1,6 +1,6 @@
-# w2_project
-
-Jokes application
+# W2 Project
+-----------------------------------
+Jokes Application
 
 In this project we created a new application using NextJS. We then created a page for generating jokes using AI. We also added a feature to customize the Joke Parameters. We added the personality of a standup comedian, and we offered to the user the following parameters:
 1. One-line comedy
