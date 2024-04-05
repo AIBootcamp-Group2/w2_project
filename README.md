@@ -16,4 +16,4 @@ And different tones:
 The following are some jokes examples:
 ![plot](./examples/Clever-Observational.png)
 ![plot](./examples/Happy-wordplay.png)
-![plot](./examples/Sarcastic-OneLiner.png)
+![plot](./examples/Sarcastic-OneLinerJ.png)
