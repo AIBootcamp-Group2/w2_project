@@ -13,7 +13,8 @@ And different tones:
 3. Sarcastic
 4. Clever
 
-The following are some jokes examples:
+
+The following are some examples of jokes generated in the application:
 ![plot](./examples/Sarcastic-OneLinerJ.png)
 ![plot](./examples/Clever-Observational.png)
 ![plot](./examples/Happy-wordplay.png)
