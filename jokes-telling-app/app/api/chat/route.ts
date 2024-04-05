@@ -2,7 +2,7 @@ import OpenAI from 'openai';
 import { OpenAIStream, StreamingTextResponse } from 'ai';
 
 const openai = new OpenAI({
-  baseURL: "https://jimmy-modified-browsing-time.trycloudflare.com/v1",
+  baseURL: "https://rebound-hu-config-bedford.trycloudflare.com/v1",
 });
 
 // const openai = new OpenAI();
